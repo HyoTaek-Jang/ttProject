@@ -58,6 +58,7 @@ public class ApplicationSeller {
 	String keyword;
 	
 	//이전희망유형
+	String transferHopeType;
 	
 	//응용분야
 	String applicationField;
